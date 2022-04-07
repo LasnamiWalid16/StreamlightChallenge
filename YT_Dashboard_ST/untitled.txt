@@ -1,0 +1,6 @@
+# Setting up a local development environment:
+    -Create a new conda environment: conda create -n YT_Dashboard_ST python=3.9
+    -Activate the conda environment: conda activate YT_Dashboard_ST
+    -Instaling streamlit : pip install streamlit
+    -Installing plotly: pip install plotly
+    -Instaling spyder: pip install spyder
